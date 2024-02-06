@@ -1,19 +1,5 @@
 # Fine-tuning-Vinallama-for-Elementary-math-solving
 
----
-license: llama2
-library_name: peft
-tags:
-- generated_from_trainer
-base_model: vilm/vinallama-7b-chat
-model-index:
-- name: experiments
-  results: []
----
-
-<!-- This model card has been generated automatically according to the information the Trainer had access to. You
-should probably proofread and complete it, then remove this comment. -->
-
 # experiments
 
 This model is a fine-tuned version of [vilm/vinallama-7b-chat](https://huggingface.co/vilm/vinallama-7b-chat) on the None dataset.
